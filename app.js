@@ -29,7 +29,7 @@ const item2 = new Item ({
 const item3 = new Item ({
   name : "Wash"
 });
-const defaultItems = [item1, item2, item3];
+const defaultItems = [];
 
 const listSchema = {
   name : String,
